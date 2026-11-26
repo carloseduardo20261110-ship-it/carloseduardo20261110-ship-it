@@ -1,248 +1,212 @@
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--         J.A.R.V.I.S // GITHUB PROFILE          -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- NEXUS OS — CARLOS EDUARDO -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:071c35,100:00d9ff&height=220&section=header&text=SEU_NOME&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=60&descSize=15"/>
+  <img src="./assets/boot.svg" width="100%" alt="NEXUS OS" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=INITIALIZING+SYSTEM...;Loading+developer+modules...;Establishing+secure+connection...;SYSTEM+ONLINE+%5BOK%5D;Welcome+to+my+digital+universe." alt="Typing SVG"/>
+  <h1>⚡ Olá, eu sou Carlos Eduardo!</h1>
 
-<br>
+  <a href="https://github.com/carloseduardo20261110-ship-it">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Inicializando+sistema...;Desenvolvedor+Front-end;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Aprender.+Construir.+Evoluir." alt="Typing SVG" />
+  </a>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9C?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/VERSION-2.0.26-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ACCESS-GRANTED-8B5CF6?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00d9ff&style=for-the-badge&label=VISITORS"/>
+  <br>
+
+  ![System](https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=flat-square&labelColor=0B101C)
+  ![Developer](https://img.shields.io/badge/CORE-FRONT--END-A78BFA?style=flat-square&labelColor=0B101C)
+  ![Status](https://img.shields.io/badge/STATUS-LEARNING-00E5FF?style=flat-square&labelColor=0B101C)
+  ![Visitors](https://komarev.com/ghpvc/?username=carloseduardo20261110-ship-it&color=00b8d4&style=flat-square&label=VISITORS)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
+## 👨‍💻 01 // SOBRE MIM
 
-## ◈ 01 // IDENTIDADE DO OPERADOR
+> Tecnologia com propósito. Código com identidade.
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer animation"/>
+Sou **Carlos Eduardo**, apaixonado por tecnologia e programação, com foco em desenvolvimento **Front-end**.
+
+Tenho conhecimentos em HTML, CSS, JavaScript e Python. Meu principal objetivo é aprimorar meus conhecimentos na área de tecnologia, desenvolver novos projetos e evoluir constantemente como desenvolvedor.
 
 ```yaml
-operator:
-  name: "SEU_NOME"
-  location: "Brasil"
-  role: "Software Developer"
-  focus: "Technology & Innovation"
-  status: "Always Learning"
-  mission: "Build the future through code"
-```
-
-Sou um desenvolvedor apaixonado por tecnologia,
-inteligência artificial e inovação.
-
-Transformo ideias em soluções digitais, buscando
-combinar performance, criatividade e experiências
-que fazem a diferença.
-
-- ⚡ Desenvolvimento de software
-- 🧠 Inteligência artificial e automação
-- 🌐 Aplicações web modernas
-- 🔐 Segurança e boas práticas
-- 🚀 Aprendizado contínuo
-
-<br clear="both"/>
-
----
-
-<!-- TECHNOLOGIES -->
-
-## ◈ 02 // TECHNOLOGY MATRIX
-
-<div align="center">
-
-### ⌘ Linguagens de programação
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,html,css&theme=dark&perline=7"/>
-
-### ⌘ Frameworks & Bibliotecas
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark&perline=6"/>
-
-### ⌘ Banco de dados & Infraestrutura
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,aws&theme=dark&perline=6"/>
-
-### ⌘ Ferramentas de desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,figma,postman&theme=dark&perline=7"/>
-
-</div>
-
----
-
-<!-- PROJECTS -->
-
-## ◈ 03 // CLASSIFIED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_01">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_01&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F6FEB&border_radius=12"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_02">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_02&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F6FEB&border_radius=12"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_03">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_03&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F6FEB&border_radius=12"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO/PROJETO_04">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO_04&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F6FEB&border_radius=12"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<!-- TERMINAL -->
-
-## ◈ 04 // CURRENT MISSIONS
-
-```bash
-┌──[operator@jarvis]─[~/missions]
-└─$ ./current_objectives.sh
-
-[ OK ] Improve software development skills
-[ >> ] Master Artificial Intelligence
-[ >> ] Build innovative applications
-[ >> ] Contribute to open-source projects
-[ >> ] Explore Cloud Computing & DevOps
-[ >> ] Develop scalable architectures
-
-──────────────────────────────────────────
- SYSTEM STATUS : OPERATIONAL
- CORE MISSION  : NEVER STOP LEARNING
-──────────────────────────────────────────
-
-┌──[operator@jarvis]─[~]
-└─$ _
+developer:
+  name: Carlos Eduardo
+  country: Brasil
+  area: Front-end
+  languages:
+    - HTML
+    - CSS
+    - JavaScript
+    - Python
+  status: Em constante aprendizado
+  mission: Construir o futuro através do código
 ```
 
 ---
 
-<!-- STATS -->
-
-## ◈ 05 // SYSTEM ANALYTICS
+## ⚙️ 02 // TECH STACK
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&border_color=1F6FEB&border_radius=12"/>
+### Linguagens e tecnologias
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=12"/>
+![HTML5](https://img.shields.io/badge/HTML5-0B101C?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B101C?style=for-the-badge&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B101C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0B101C?style=for-the-badge&logo=python&logoColor=00E5FF)
 
-<br><br>
+### Ferramentas utilizadas
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&background=0D1117&border=1F6FEB&stroke=00D9FF&ring=00D9FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&border_radius=12"/>
+![VS Code](https://img.shields.io/badge/VS%20Code-0B101C?style=for-the-badge&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0B101C?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B101C?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
-
-## ◈ 06 // ACTIVITY MONITOR
+## 🚀 03 // PROJETOS EM DESTAQUE
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00D9FF&line=00D9FF&point=8B5CF6&area=true&area_color=00D9FF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+  <a href="https://github.com/carloseduardo20261110-ship-it?tab=repositories">
+    <img src="./assets/projects.svg" width="600" alt="Projetos em desenvolvimento" />
+  </a>
+
+  <br>
+
+  ![Projects](https://img.shields.io/badge/NEW_PROJECTS-COMING_SOON-00E5FF?style=for-the-badge&labelColor=0B101C)
+
+  <a href="https://github.com/carloseduardo20261110-ship-it?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORAR-REPOSITÓRIOS-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0B101C" />
+  </a>
 
 </div>
 
----
+<!--
+Adicione seus futuros projetos utilizando este modelo:
 
-<!-- TROPHIES -->
-
-## ◈ 07 // ACHIEVEMENT DATABASE
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
+[![Projeto](https://github-readme-stats.vercel.app/api/pin/?username=carloseduardo20261110-ship-it&repo=NOME_DO_REPOSITORIO&theme=tokyonight)](https://github.com/carloseduardo20261110-ship-it/NOME_DO_REPOSITORIO)
+-->
 
 ---
 
-<!-- SNAKE -->
-
-## ◈ 08 // CONTRIBUTION PROTOCOL
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- SOCIAL MEDIA -->
-
-## ◈ 09 // ESTABLISH CONNECTION
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a>
-
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00A8"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=500&lines=Connection+established.;The+future+is+being+coded.;Thanks+for+visiting+my+system."/>
-
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
+## 🎯 04 // OBJETIVOS ATUAIS
 
 ```text
-╔══════════════════════════════════════╗
-║     J.A.R.V.I.S // END OF TRANSMISSION ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║            NEXUS OS — TERMINAL               ║
+╚══════════════════════════════════════════════╝
+
+carlos@nexus:~$ whoami
+
+> Carlos Eduardo
+> Front-end Developer
+> Technology Student
+
+carlos@nexus:~$ mission --status
+
+[✓] Estudar HTML e CSS
+[>] Aprimorar JavaScript
+[>] Evoluir em Python
+[>] Desenvolver novos projetos
+[>] Aprimorar conhecimentos em tecnologia
+[>] Evoluir como desenvolvedor Front-end
+
+carlos@nexus:~$ system --status
+
+SYSTEM............. ONLINE
+DEVELOPER.......... ACTIVE
+LEARNING........... IN PROGRESS
+EVOLUTION.......... CONTINUOUS
+
+carlos@nexus:~$ _
 ```
 
-**DESIGNED WITH CODE. POWERED BY CURIOSITY.**
+---
 
-<sub>© 2026 SEU_NOME // ALL SYSTEMS OPERATIONAL</sub>
+## 📊 05 // GITHUB ANALYTICS
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,50:071c35,100:00d9ff&height=120&section=footer"/>
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carloseduardo20261110-ship-it&show_icons=true&rank_icon=github&bg_color=0B101C&title_color=00E5FF&text_color=C5D2E3&icon_color=A78BFA&border_color=34455D&border_radius=12" alt="GitHub Stats" />
+
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo20261110-ship-it&layout=compact&bg_color=0B101C&title_color=00E5FF&text_color=C5D2E3&border_color=34455D&border_radius=12" alt="Top Languages" />
+
+  <br><br>
+
+  <img width="80%" src="https://streak-stats.demolab.com/?user=carloseduardo20261110-ship-it&background=0B101C&border=34455D&stroke=34455D&ring=00E5FF&fire=A78BFA&currStreakNum=FFFFFF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=A78BFA&dates=93A4B8&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 06 // ACTIVITY GRAPH
+
+<div align="center">
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=carloseduardo20261110-ship-it&bg_color=0B101C&color=C5D2E3&line=00E5FF&point=A78BFA&area=true&area_color=00E5FF&border_color=34455D&custom_title=Contribution%20Timeline" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 07 // GITHUB TROPHIES
+
+<div align="center">
+
+  <img width="100%" src="https://github-profile-trophy-sigma-one.vercel.app/?username=carloseduardo20261110-ship-it&theme=onedark&no-frame=true&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 08 // CONTRIBUTION SNAKE
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseduardo20261110-ship-it/carloseduardo20261110-ship-it/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseduardo20261110-ship-it/carloseduardo20261110-ship-it/output/snake-light.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/carloseduardo20261110-ship-it/carloseduardo20261110-ship-it/output/snake-dark.svg" alt="Snake Animation" />
+  </picture>
+
+</div>
+
+---
+
+## 🌐 09 // CONECTE-SE COMIGO
+
+<div align="center">
+
+  <a href="https://github.com/carloseduardo20261110-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-0B101C?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+
+  <a href="https://www.instagram.com/kadu_25k/">
+    <img src="https://img.shields.io/badge/Instagram-0B101C?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+
+  <a href="mailto:carloseduardo.2026.1110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0B101C?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### ⚡ LEARN. BUILD. EVOLVE.
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=O+futuro+começa+com+uma+linha+de+código.;Nunca+pare+de+aprender.;System+Online...;Carlos+Eduardo+%7C+NEXUS+OS" alt="Footer Animation" />
+
+  ![Status](https://img.shields.io/badge/SYSTEM-OPERATIONAL-00E5FF?style=flat-square&labelColor=0B101C)
+
+  <p>Desenvolvido com dedicação por Carlos Eduardo.</p>
+
+  <img src="./assets/footer.svg" width="100%" alt="NEXUS OS Footer" />
 
 </div>
